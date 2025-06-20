@@ -1,4 +1,4 @@
-# Hi, I'm Cre4T3Tiv3 (Jesse Moses)
+# Hi, I’m Jesse Moses (@Cre4T3Tiv3)
 
 🎯 Full-stack and AI-native builder  
 💻 Deep experience in software engineering across frontend, backend, and systems  
