@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3" target="_blank">
-    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/Cre4T3Tiv3/main/docs/assets/Cre4T3Tiv3-Latest.jpeg" alt="Cre4T3Tiv3 social preview" width="640"/>
-  </a>
-</p>
-
 # Hi, I'm Cre4T3Tiv3 (Jesse Moses)
 
 🎯 Full-stack and AI-native builder  
