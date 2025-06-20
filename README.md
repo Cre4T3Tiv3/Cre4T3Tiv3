@@ -3,7 +3,7 @@
 🎯 Full-stack and AI-native builder  
 💻 Deep experience in software engineering across frontend, backend, and systems  
 🧠 Advanced understanding of ML and model development  
-🛠️ Real open-source momentum across modern LLM tools and infra
+🛠️ Actively building OSS tools for modern LLM workflows and infrastructure
 
 I’m a software engineer who builds real, scalable systems end to end. With over a decade of experience spanning fintech, ad-tech, and enterprise SaaS, I design and deliver production-grade software that combines deep backend architecture, rich frontend UX, and AI-native tooling.
 
