@@ -5,7 +5,7 @@
 🧠 Advanced understanding of ML and model development  
 🛠️ Actively building OSS tools for modern LLM workflows and infrastructure
 
-I’m a software engineer who builds real, scalable systems end to end. With over a decade of experience spanning fintech, ad-tech, and enterprise SaaS, I design and deliver production-grade software that combines deep backend architecture, rich frontend UX, and AI-native tooling.
+I’m a software engineer who builds scalable systems end to end. With over a decade of experience spanning fintech, ad-tech, and enterprise SaaS, I design and deliver production-grade software that combines deep backend architecture, rich frontend UX, and AI-native tooling.
 
 My work includes full-stack web applications, API-first distributed systems, runtime-aware infrastructure, and ML-integrated pipelines. I specialize in building developer tools and agentic systems that are modular, maintainable, and grounded in real engineering principles.
 
