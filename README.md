@@ -1,15 +1,15 @@
 # Hi, I’m Jesse Moses (@Cre4T3Tiv3)
 
-🎯 Full-stack and AI-native product builder<br>
-💻 10+ years of experience delivering scalable software across frontend, backend, and runtime systems<br>
-🧠 Advanced understanding of machine learning and LLM workflows<br>
-🛠️ Building OSS tools that combine great UX with deep engineering craft
+🎯 Full-stack and AI-native product builder  
+💻 10+ years delivering scalable software across frontend, backend, and runtime systems  
+🧠 Applied expertise in LLM integration, agentic workflows, and modern AI tools  
+🛠️ Building OSS projects that combine clean UX with solid engineering fundamentals
 
-I'm a software engineer who builds end-to-end AI products, from clean UI to robust infrastructure. My background spans fintech, ad-tech, and enterprise SaaS, where I've delivered production-grade systems that merge deep backend architecture, rich frontend UX, and AI-native tooling.
+I build complete AI products, from frontend design to runtime orchestration. With a background spanning fintech, ad-tech, and enterprise SaaS, I design and ship real-world systems that are powerful, usable, and grounded in developer experience.
 
-My work includes full-stack web applications, API-first distributed systems, LLM apps, agentic runtimes, and ML-integrated pipelines. I specialize in building developer tools and runtime systems that are modular, maintainable, and grounded in real engineering principles.
+My work includes full-stack web apps, API-first distributed systems, LLM tools, agentic runtimes, and ML-integrated pipelines. I specialize in tools that are modular, maintainable, and designed for real-world engineering needs.
 
-I build in public and treat open-source like product. Clear abstractions, practical workflows, and thoughtful code are at the core of everything I release.
+I build in public and treat open source like product. Clear abstractions, practical workflows, and thoughtful code are at the core of everything I release.
 
 Committed to scalable engineering, cross-stack execution, and building tools that empower both humans and machines.
 
