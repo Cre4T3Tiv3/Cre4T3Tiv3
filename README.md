@@ -5,7 +5,7 @@
 🧠 Advanced understanding of machine learning and LLM workflows<br>
 🛠️ Building OSS tools that combine great UX with deep engineering craft
 
-I'm a software engineer who builds end-to-end AI products — from clean UI to robust infrastructure. My background spans fintech, ad-tech, and enterprise SaaS, where I've delivered production-grade systems that merge deep backend architecture, rich frontend UX, and AI-native tooling.
+I'm a software engineer who builds end-to-end AI products, from clean UI to robust infrastructure. My background spans fintech, ad-tech, and enterprise SaaS, where I've delivered production-grade systems that merge deep backend architecture, rich frontend UX, and AI-native tooling.
 
 My work includes full-stack web applications, API-first distributed systems, LLM apps, agentic runtimes, and ML-integrated pipelines. I specialize in building developer tools and runtime systems that are modular, maintainable, and grounded in real engineering principles.
 
