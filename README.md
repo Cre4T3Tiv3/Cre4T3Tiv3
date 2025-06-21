@@ -44,7 +44,7 @@ A UI-based tool to test, tag, and export your LLM prompts with model selection a
         <strong>LLMOps Dashboard</strong>
       </a>
       <p>
-        A modular frontend framework to compose and debug prompt pipelines, visualize telemetry, and integrate custom LLMs.
+        A modular frontend framework to compose & debug prompt pipelines, visualize telemetry, & integrate custom LLMs.
       </p>
     </td>
   </tr>
