@@ -1,17 +1,17 @@
 # Hi, I’m Jesse Moses (@Cre4T3Tiv3)
 
-🎯 Full-stack and AI-native builder  
-💻 Deep experience in software engineering across frontend, backend, and systems  
-🧠 Advanced understanding of ML and model development  
-🛠️ Actively building OSS tools for modern LLM workflows and infrastructure
+🎯 Full-stack and AI-native product builder<br>
+💻 10+ years of experience delivering scalable software across frontend, backend, and runtime systems<br>
+🧠 Advanced understanding of machine learning and LLM workflows<br>
+🛠️ Building OSS tools that combine great UX with deep engineering craft
 
-I’m a software engineer who builds scalable systems end to end. With over a decade of experience spanning fintech, ad-tech, and enterprise SaaS, I design and deliver production-grade software that combines deep backend architecture, rich frontend UX, and AI-native tooling.
+I'm a software engineer who builds end-to-end AI products — from clean UI to robust infrastructure. My background spans fintech, ad-tech, and enterprise SaaS, where I've delivered production-grade systems that merge deep backend architecture, rich frontend UX, and AI-native tooling.
 
-My work includes full-stack web applications, API-first distributed systems, runtime-aware infrastructure, and ML-integrated pipelines. I specialize in building developer tools and agentic systems that are modular, maintainable, and grounded in real engineering principles.
+My work includes full-stack web applications, API-first distributed systems, LLM apps, agentic runtimes, and ML-integrated pipelines. I specialize in building developer tools and runtime systems that are modular, maintainable, and grounded in real engineering principles.
 
 I build in public and treat open-source like product. Clear abstractions, practical workflows, and thoughtful code are at the core of everything I release.
 
-Committed to scalable engineering, cross-stack execution, and AI-native systems that serve both humans and machines.
+Committed to scalable engineering, cross-stack execution, and building tools that empower both humans and machines.
 
 ---
 ### Current OSS Projects
