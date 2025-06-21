@@ -40,7 +40,7 @@ A UI-based tool to test, tag, and export your LLM prompts with model selection a
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Cre4T3Tiv3/llmops-dashboard">
-        <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llmops-dashboard/main/docs/assets/llmops_dashboard_v0.2.0.jpg" alt="LLMOps Dashboard preview" width="300"/><br/>
+        <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llmops-dashboard/main/docs/assets/llmops_dashboard_v0.2.0.jpeg" alt="LLMOps Dashboard preview" width="300"/><br/>
         <strong>LLMOps Dashboard</strong>
       </a>
       <p>
