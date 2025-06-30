@@ -1,6 +1,19 @@
+<p align="left">
+  <a href="https://x.com/Cre4T3Tiv3" target="_blank">
+    <img align="left" src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/logo-white.png" alt="Cre4T3Tiv3 on X" height="30" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/jlmoses/" target="_blank">
+    <img align="left" src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/InBug-White.png" alt="Jesse Moses on LinkedIn" height="30" />
+  </a>
+  <br/>
+  <em>Follow me for OSS projects, AI workflows, and engineering insights.</em>
+</p>
+
+---
+
 # Hi, I’m Jesse Moses (@Cre4T3Tiv3)
 
-🎯 Full-stack and AI-native product builder  
+👨‍💻 **Senior Software Development Engineer & OSS Builder** crafting full-stack systems and AI-native products  
 💻 10+ years delivering scalable software across frontend, backend, and runtime systems  
 🧠 Applied expertise in LLM integration, agentic workflows, and modern AI tools  
 🛠️ Building OSS projects that combine clean UX with solid engineering fundamentals
@@ -9,11 +22,22 @@ I build complete AI products, from frontend design to runtime orchestration. Wit
 
 My work includes full-stack web apps, API-first distributed systems, LLM tools, agentic runtimes, and ML-integrated pipelines. I specialize in tools that are modular, maintainable, and designed for real-world engineering needs.
 
-I build in public and treat open source like product. Clear abstractions, practical workflows, and thoughtful code are at the core of everything I release.
+I build in public and treat open source like a product. Clear abstractions, practical workflows, and thoughtful code are at the core of everything I release.
 
 Committed to scalable engineering, cross-stack execution, and building tools that empower both humans and machines.
 
 ---
+
+### My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,js,html,css,latex,ai,fastapi,nodejs,spring,react,nextjs,svelte,tailwind,tauri,vite,electron,npm,figma,obsidian,aws,azure,gcp,terraform,docker,kubernetes,nginx,linux,arch,bsd,bash,sqlite,postgresql,dynamodb,cassandra,mongodb,elasticsearch,redis,graphql,kafka,rabbitmq,tensorflow,opencv,pytorch,grafana,prometheus,github,gitlab,git,vscode,md&perline=18" alt="Cre4T3Tiv3 skill icons" />
+  </a>
+</p>
+
+---
+
 ### Current OSS Projects
 
 #### [LLM Prompt Debugger](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)  
@@ -25,6 +49,8 @@ A UI-based tool to test, tag, and export your LLM prompts with model selection a
 </p>
 
 ---
+
+#### Here are a few of my other projects:
 
 <table>
   <tr>
@@ -49,13 +75,6 @@ A UI-based tool to test, tag, and export your LLM prompts with model selection a
     </td>
   </tr>
 </table>
-
----
-
-### Connect
-
-- [X (Twitter)](https://x.com/Cre4T3Tiv3)  
-- [LinkedIn](https://www.linkedin.com/in/jlmoses/)
 
 ---
 
