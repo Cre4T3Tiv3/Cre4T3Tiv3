@@ -40,10 +40,19 @@ Committed to scalable engineering, cross-stack execution, and building tools tha
 
 ### Current OSS Projects
 
+#### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)  
+Temporal code intelligence platform that analyzes Git history to understand code evolution patterns.  
+Reveals quality engineering signatures that static analysis tools miss.  
+Research foundation for next-generation AI code agent.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.1.0.jpeg" alt="GitVoyant social preview" width="600"/>
+</p>
+
 #### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)  
 A lightweight, instruction-tuned LoRA adapter for LLaMA 3 8B using QLoRA and Alpaca-style prompts.  
 Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), built for low-resource inference and agentic workflows.  
-*Includes a [HF Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)*
+*Check out my [HF Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="600"/>
