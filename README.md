@@ -46,7 +46,7 @@ Reveals quality engineering signatures that static analysis tools miss.
 Research foundation for next-generation AI code agent.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.1.0.jpeg" alt="GitVoyant social preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="600"/>
 </p>
 
 #### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)  
