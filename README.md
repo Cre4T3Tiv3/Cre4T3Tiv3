@@ -41,9 +41,9 @@ Committed to scalable engineering, cross-stack execution, and building tools tha
 ### Current OSS Projects
 
 #### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)  
-Temporal code intelligence platform that analyzes Git history to understand code evolution patterns.  
-Reveals quality engineering signatures that static analysis tools miss.  
-Research foundation for next-generation AI code agent.
+Conversational AI agent for repository analysis using Git history patterns. 
+Reveals code quality evolution, complexity trends, and decay forecasting through natural language interactions. 
+Next-generation temporal intelligence platform. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="600"/>
