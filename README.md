@@ -14,8 +14,8 @@
 # Hi, I’m Jesse Moses (@Cre4T3Tiv3)
 
 👨‍💻 **Senior Full-Stack Software Engineer & OSS Builder** crafting full-stack systems and AI & ML native products  
-💻 10+ years delivering scalable software across frontend, backend, and runtime systems  
-🧠 Applied expertise in LLM integration, agentic workflows, and modern AI & ML tools  
+💻 MS AI/ML, MS CS (in-progress), and 10+ years delivering scalable software across frontend, backend, and runtime systems  
+🧠 Applied expertise in training and building LLM integrations, agentic workflows, and modern AI & ML tools  
 🛠️ Building OSS projects that combine clean UX with solid engineering fundamentals
 
 I build complete AI & ML products, from frontend design to runtime orchestration. With a background spanning fintech, ad-tech, and enterprise SaaS, I design and ship real-world systems that are powerful, usable, and grounded in developer experience.
