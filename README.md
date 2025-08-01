@@ -47,7 +47,7 @@ simulations, and open-source evaluation tools, grounded in research-backed
 metrics and real execution traces. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="500"/>
 </p>
 
 #### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)  
@@ -56,7 +56,7 @@ Reveals code quality evolution, complexity trends, and decay forecasting through
 Next-generation temporal intelligence platform. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="500"/>
 </p>
 
 #### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)  
@@ -65,7 +65,7 @@ Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), built for low-r
 *Check out my [HF Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="500"/>
 </p>
 
 ---
