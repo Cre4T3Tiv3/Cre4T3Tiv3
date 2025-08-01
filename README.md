@@ -40,6 +40,16 @@ Committed to scalable engineering, cross-stack execution, and building tools tha
 
 ### Current OSS Projects
 
+#### [AI Agent Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)  
+Reality check for AI agents. This project exposes the high failure rates of 
+shallow agent architectures through reproducible benchmarks, realistic task 
+simulations, and open-source evaluation tools, grounded in research-backed 
+metrics and real execution traces. 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="600"/>
+</p>
+
 #### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)  
 Conversational AI agent for repository analysis using Git history patterns. 
 Reveals code quality evolution, complexity trends, and decay forecasting through natural language interactions. 
