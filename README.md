@@ -49,6 +49,8 @@ Features statistical validation and reproducible methodology for separating arch
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="500"/>
 </p>
 
+---
+
 #### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)  
 Conversational AI agent for repository analysis using Git history patterns. 
 Reveals code quality evolution, complexity trends, and decay forecasting through natural language interactions. 
@@ -57,6 +59,8 @@ Next-generation temporal intelligence platform.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="500"/>
 </p>
+
+---
 
 #### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)  
 A lightweight, instruction-tuned LoRA adapter for LLaMA 3 8B using QLoRA and Alpaca-style prompts.  
