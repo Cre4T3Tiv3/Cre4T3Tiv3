@@ -79,7 +79,7 @@ A UI-based tool to test, tag, and export your LLM prompts with model selection a
 
 ---
 
-#### Here are a few of my other projects:
+#### Here are a couple of my other projects:
 
 <table>
   <tr>
