@@ -30,6 +30,8 @@ Committed to scalable engineering, cross-stack execution, and building tools tha
 
 ### My Tech Stack
 
+---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,js,html,css,latex,ai,fastapi,nodejs,spring,react,nextjs,svelte,tailwind,tauri,vite,electron,npm,figma,obsidian,aws,azure,gcp,terraform,docker,kubernetes,nginx,linux,arch,bsd,bash,sqlite,postgresql,dynamodb,cassandra,mongodb,elasticsearch,redis,graphql,kafka,rabbitmq,tensorflow,opencv,pytorch,grafana,prometheus,github,gitlab,git,vscode,md&perline=18" alt="Cre4T3Tiv3 skill icons" />
@@ -39,6 +41,8 @@ Committed to scalable engineering, cross-stack execution, and building tools tha
 ---
 
 ### Current OSS Projects
+
+---
 
 #### [AI Agent Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)  
 Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.   
