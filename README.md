@@ -44,7 +44,7 @@ Committed to scalable engineering, cross-stack execution, and building tools tha
 
 ---
 
-#### [AI Agent Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)  
+#### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)  
 Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.   
 Rigorous multi-dimensional evaluation: stress testing, network resilience, ensemble coordination, and failure analysis.   
 Features statistical validation and reproducible methodology for separating architectural theater from real systems. 
