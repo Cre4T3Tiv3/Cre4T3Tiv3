@@ -13,18 +13,19 @@
 
 # Hi, I'm Jesse Moses (@Cre4T3Tiv3)
 
-**Lead AI Software Engineer** pioneering **Temporal Intelligence** in AI systems—analyzing how AI and code evolve over time, not just snapshots.
+**Lead AI Software Engineer** combining research rigor, mathematical depth, and innovative tool building to advance AI engineering through novel approaches and comprehensive developer workflows.
 
-⇒ **R&D & Innovation** in AI engineering with 10+ years across fintech, ad-tech, and enterprise SaaS  
-⇒ **MS AI/ML, MS CS (in-progress)** - Mathematical foundations applied to practical AI engineering  
-⇒ **Temporal Intelligence Pioneer** - Revolutionary approach to understanding AI system evolution  
-⇒ **AI Engineering Tools** - Building next-generation developer workflows and analysis platforms
+⇒ **Research Rigor** - Statistical validation, mathematical analysis, and reproducible methodologies  
+⇒ **Mathematical Foundations** - Deep expertise in core ML mathematics (SVD, linear algebra, statistical modeling)  
+⇒ **Innovation Leadership** - Temporal Intelligence and novel approaches to AI system analysis  
+⇒ **Developer Tools** - Building comprehensive workflows that solve real engineering problems at scale
+⇒ **R&D & Innovation** - 10+ years across fintech, ad-tech, and enterprise SaaS | MS AI/ML, MS CS (in-progress)
 
-I build AI systems that bridge mathematical rigor with practical engineering. My work focuses on temporal pattern analysis, rigorous AI agent benchmarking, and creating tools that solve real problems developers face daily.
+I build AI systems that bridge mathematical rigor with practical engineering. My work spans temporal pattern analysis, rigorous AI agent benchmarking, foundational ML mathematics, and creating tools that solve real problems developers face daily.
 
-Specializing in temporal intelligence, AI agent architecture, LLM tooling, and mathematical ML foundations. I build in public, treat open source like product, and combine statistical validation with thoughtful engineering.
+Specializing in research-driven innovation, mathematical ML foundations, comprehensive developer tooling, and statistical validation. I build in public, treat open source like product, and advance the field through rigorous analysis and thoughtful engineering.
 
-**Mission: Advancing AI engineering through tools and insights that empower both humans and machines.**
+**Mission: Advancing AI engineering through research rigor, mathematical depth, and innovative tools that empower both humans and machines.**
 
 ---
 
@@ -32,8 +33,8 @@ Specializing in temporal intelligence, AI agent architecture, LLM tooling, and m
 
 **Temporal Intelligence** - Analyzing AI systems and code evolution patterns over time  
 **AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems  
+**Mathematical ML Foundations** - Bridging core mathematics with modern AI applications  
 **Next-Gen AI Tools** - Building developer workflows for the future of AI engineering  
-**Mathematical ML** - Bridging foundational mathematics with modern AI applications  
 
 ---
 
@@ -127,11 +128,12 @@ Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for c
 
 ## What Sets This Work Apart
 
-**Temporal Intelligence** - Revolutionary focus on how AI systems evolve over time  
-**Mathematical Rigor** - Statistical validation and reproducible methodologies  
+**Research Rigor** - Statistical validation (95% CI, Cohen's h), reproducible methodologies, mathematical analysis  
+**Mathematical Foundations** - Deep expertise in core ML mathematics applied to modern AI systems  
+**Innovation** - Temporal Intelligence and novel approaches that advance the field  
 **Practical Engineering** - Tools that solve real problems developers face daily  
-**Open Innovation** - Building in public with complete transparency  
+**Open Innovation** - Building in public with complete transparency and rigorous validation  
 
 ---
 
-*Pioneering Temporal Intelligence • Building next-generation AI engineering tools • Mathematical foundations meet practical solutions*
+*Research rigor • Mathematical depth • Innovation • Building next-generation AI engineering tools*
