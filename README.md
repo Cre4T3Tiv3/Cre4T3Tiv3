@@ -6,25 +6,34 @@
     <img align="left" src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/InBug-White.png" alt="Jesse Moses on LinkedIn" height="30" />
   </a>
   <br/>
-  <em>Follow me for OSS projects, AI & ML workflows, and engineering insights.</em>
+  <em>Follow me for temporal intelligence insights, AI engineering tools, and rigorous analysis that cuts through the hype.</em>
 </p>
 
 ---
 
-# Hi, I’m Jesse Moses (@Cre4T3Tiv3)
+# Hi, I'm Jesse Moses (@Cre4T3Tiv3)
 
-⇒ **Senior Full-Stack Software Engineer & OSS Builder** crafting full-stack systems and AI & ML native products  
-⇒ MS AI/ML, MS CS (in-progress), and 10+ years delivering scalable software across frontend, backend, and runtime systems  
-⇒ Applied expertise in training and building LLM integrations, agentic workflows, and modern AI & ML tools  
-⇒ Building OSS projects that combine clean UX with solid engineering fundamentals
+**Lead AI Software Engineer** pioneering **Temporal Intelligence** in AI systems—analyzing how AI and code evolve over time, not just snapshots.
 
-I build complete AI & ML products, from frontend design to runtime orchestration. With a background spanning fintech, ad-tech, and enterprise SaaS, I design and ship real-world systems that are powerful, usable, and grounded in developer experience.
+⇒ **R&D & Innovation** in AI engineering with 10+ years across fintech, ad-tech, and enterprise SaaS  
+⇒ **MS AI/ML, MS CS (in-progress)** - Mathematical foundations applied to practical AI engineering  
+⇒ **Temporal Intelligence Pioneer** - Revolutionary approach to understanding AI system evolution  
+⇒ **AI Engineering Tools** - Building next-generation developer workflows and analysis platforms
 
-My work includes full-stack web apps, API-first distributed systems, LLM tools, agentic runtimes, and ML-integrated pipelines. I specialize in tools that are modular, maintainable, and designed for real-world engineering needs.
+I build AI systems that bridge mathematical rigor with practical engineering. My work focuses on temporal pattern analysis, rigorous AI agent benchmarking, and creating tools that solve real problems developers face daily.
 
-I build in public and treat open source like a product. Clear abstractions, practical workflows, and thoughtful code are at the core of everything I release.
+Specializing in temporal intelligence, AI agent architecture, LLM tooling, and mathematical ML foundations. I build in public, treat open source like product, and combine statistical validation with thoughtful engineering.
 
-Committed to scalable engineering, cross-stack execution, and building tools that empower both humans and machines.
+**Mission: Advancing AI engineering through tools and insights that empower both humans and machines.**
+
+---
+
+## Current Research & Innovation
+
+**Temporal Intelligence** - Analyzing AI systems and code evolution patterns over time  
+**AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems  
+**Next-Gen AI Tools** - Building developer workflows for the future of AI engineering  
+**Mathematical ML** - Bridging foundational mathematics with modern AI applications  
 
 ---
 
@@ -40,14 +49,14 @@ Committed to scalable engineering, cross-stack execution, and building tools tha
 
 ---
 
-### Current OSS Projects
+### Featured Projects
 
 ---
 
-#### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)  
-Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.   
+#### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check) 🤖  
+**Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.**   
 Rigorous multi-dimensional evaluation: stress testing, network resilience, ensemble coordination, and failure analysis.   
-Features statistical validation and reproducible methodology for separating architectural theater from real systems. 
+Features statistical validation (95% confidence intervals, Cohen's h effect sizes) and reproducible methodology for separating architectural theater from real systems. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="500"/>
@@ -55,10 +64,10 @@ Features statistical validation and reproducible methodology for separating arch
 
 ---
 
-#### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)  
-Conversational AI agent for repository analysis using Git history patterns. 
-Reveals code quality evolution, complexity trends, and decay forecasting through natural language interactions. 
-Next-generation temporal intelligence platform. 
+#### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)
+**Temporal Code Intelligence platform predicting quality evolution through Git history analysis.**  
+Conversational AI agent revealing code complexity trends, decay forecasting, and maintenance burden prediction. 
+Revolutionary approach to understanding codebase evolution using mathematical pattern analysis.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="500"/>
@@ -66,19 +75,9 @@ Next-generation temporal intelligence platform.
 
 ---
 
-#### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)  
-A lightweight, instruction-tuned LoRA adapter for LLaMA 3 8B using QLoRA and Alpaca-style prompts.  
-Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), built for low-resource inference and agentic workflows.  
-*Check out my [HF Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="500"/>
-</p>
-
----
-
-#### [LLM Prompt Debugger](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)  
-A UI-based tool to test, tag, and export your LLM prompts with model selection and prompt versioning.  
+#### [LLM Prompt Debugger](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)
+**Clean UI for LLM development workflows with prompt versioning and model selection.**  
+Built for engineers, not hype. Streamlined prompt → model → tag → export workflow.  
 *Currently supports OpenAI, Claude, and Ollama*
 
 <p align="center">
@@ -87,7 +86,18 @@ A UI-based tool to test, tag, and export your LLM prompts with model selection a
 
 ---
 
-#### Here are a couple of my other projects:
+#### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
+**Lightweight, instruction-tuned LoRA adapter for LLaMA 3 8B using 4-bit QLoRA.**  
+Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for consumer GPUs and agentic workflows.  
+*Check out my [HF Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="500"/>
+</p>
+
+---
+
+#### Additional AI Engineering Tools:
 
 <table>
   <tr>
@@ -115,6 +125,13 @@ A UI-based tool to test, tag, and export your LLM prompts with model selection a
 
 ---
 
-*Building in public. OSS treated as product. Thoughtful code. Practical systems.*
+## What Sets This Work Apart
+
+**Temporal Intelligence** - Revolutionary focus on how AI systems evolve over time  
+**Mathematical Rigor** - Statistical validation and reproducible methodologies  
+**Practical Engineering** - Tools that solve real problems developers face daily  
+**Open Innovation** - Building in public with complete transparency  
 
 ---
+
+*Pioneering Temporal Intelligence • Building next-generation AI engineering tools • Mathematical foundations meet practical solutions*
