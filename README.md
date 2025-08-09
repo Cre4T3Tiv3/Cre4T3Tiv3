@@ -18,7 +18,7 @@
 ⇒ **Research Rigor** - Statistical validation, mathematical analysis, and reproducible methodologies  
 ⇒ **Mathematical Foundations** - Deep expertise in core ML mathematics (SVD, linear algebra, statistical modeling)  
 ⇒ **Innovation Leadership** - Temporal Intelligence and novel approaches to AI system analysis  
-⇒ **Developer Tools** - Building comprehensive workflows that solve real engineering problems at scale
+⇒ **Developer Tools** - Building comprehensive workflows that solve real engineering problems at scale  
 ⇒ **R&D & Innovation** - 10+ years across fintech, ad-tech, and enterprise SaaS | MS AI/ML, MS CS (in-progress)
 
 I build AI systems that bridge mathematical rigor with practical engineering. My work spans temporal pattern analysis, rigorous AI agent benchmarking, foundational ML mathematics, and creating tools that solve real problems developers face daily.
