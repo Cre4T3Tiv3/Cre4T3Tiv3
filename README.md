@@ -53,7 +53,7 @@ Specializing in temporal intelligence, AI agent architecture, LLM tooling, and m
 
 ---
 
-#### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check) 🤖  
+#### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
 **Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.**   
 Rigorous multi-dimensional evaluation: stress testing, network resilience, ensemble coordination, and failure analysis.   
 Features statistical validation (95% confidence intervals, Cohen's h effect sizes) and reproducible methodology for separating architectural theater from real systems. 
