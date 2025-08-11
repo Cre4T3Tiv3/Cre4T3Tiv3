@@ -13,7 +13,7 @@
 
 # Hi, I'm Jesse Moses (@Cre4T3Tiv3)
 
-**Lead AI Software Engineer** combining research rigor, mathematical depth, and innovative tool building to advance AI engineering through novel approaches and comprehensive developer workflows.
+**AI Software Engineer** combining research rigor, mathematical depth, and innovative tool building to advance AI engineering through novel approaches and comprehensive developer workflows.
 
 ⇒ **Research Rigor** - Statistical validation, mathematical analysis, and reproducible methodologies  
 ⇒ **Mathematical Foundations** - Deep expertise in core ML mathematics (SVD, linear algebra, statistical modeling)  
