@@ -6,7 +6,7 @@
     <img align="left" src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/InBug-White.png" alt="Jesse Moses on LinkedIn" height="30" />
   </a>
   <br/>
-  <em>Follow me for temporal intelligence insights, AI engineering tools, and rigorous analysis that cuts through the hype.</em>
+  <em>Follow me for temporal intelligence insights, AI/ML engineering, and rigorous analysis that cuts through the hype.</em>
 </p>
 
 ---
@@ -136,4 +136,4 @@ Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for c
 
 ---
 
-*Research rigor • Mathematical depth • Innovation • Building next-generation AI engineering tools*
+*Research rigor • Mathematical depth • Innovation • Building next-generation AI/ML engineering software*
