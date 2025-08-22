@@ -135,9 +135,9 @@ Demonstrates cutting-edge parameter-efficient fine-tuning with [Unsloth](https:/
         <strong>LLMOps Dashboard</strong>
       </a>
       <p>
-        <strong>Production-grade framework for composing and debugging complex prompt pipelines.</strong><br/>
+        <strong>Modular framework for composing and debugging complex prompt pipelines.</strong><br/>
         <em>◊ Real-time telemetry visualization ◊ Custom LLM integration ◊ Modular architecture</em><br/>
-        <em>Enterprise-ready prompt engineering platform.</em>
+        <em>Dev-ready prompt engineering platform.</em>
       </p>
     </td>
   </tr>
