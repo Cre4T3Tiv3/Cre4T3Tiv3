@@ -13,8 +13,12 @@
 
 # Hi, I'm Jesse Moses (@Cre4T3Tiv3)
 
+> *Building AI systems that actually work, backed by math that actually matters.*
+
 **AI Software Engineer** combining research rigor, mathematical depth, and innovative tool building to advance AI engineering through novel approaches and comprehensive developer workflows.
 
+What drives me most in AI/ML is the R&D and innovation side. Taking cutting-edge research and turning it into real-world solutions. There's something exciting about being at that intersection of theory and practical impact.
+ 
 ⇒ **Research Rigor** - Statistical validation, mathematical analysis, and reproducible methodologies  
 ⇒ **Mathematical Foundations** - Deep expertise in core ML mathematics (SVD, linear algebra, statistical modeling)  
 ⇒ **Innovation Leadership** - Temporal Intelligence and novel approaches to AI system analysis  
@@ -25,7 +29,7 @@ I build AI systems that bridge mathematical rigor with practical engineering. My
 
 Specializing in research-driven innovation, mathematical ML foundations, comprehensive developer tooling, and statistical validation. I build in public, treat open source like product, and advance the field through rigorous analysis and thoughtful engineering.
 
-**Mission: Advancing AI engineering through research rigor, mathematical depth, and innovative tools that empower both humans and machines.**
+**▶ Mission: Advancing AI engineering through research rigor, mathematical depth, and innovative tools that empower both humans and machines.**
 
 ---
 
@@ -33,6 +37,8 @@ Specializing in research-driven innovation, mathematical ML foundations, compreh
 
 **Temporal Intelligence** - Analyzing AI systems and code evolution patterns over time  
 **AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems  
+**Neural Network Training & Optimization** - Advanced fine-tuning methodologies, QLoRA implementations, and efficient training pipelines  
+**Model Architecture Research** - Agent-based learning systems and multi-model coordination frameworks  
 **Mathematical ML Foundations** - Bridging core mathematics with modern AI applications  
 **Next-Gen AI Tools** - Building developer workflows for the future of AI engineering  
 
@@ -56,19 +62,19 @@ Specializing in research-driven innovation, mathematical ML foundations, compreh
 
 #### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
 **Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.**   
-Rigorous multi-dimensional evaluation: stress testing, network resilience, ensemble coordination, and failure analysis.   
-Features statistical validation (95% confidence intervals, Cohen's h effect sizes) and reproducible methodology for separating architectural theater from real systems. 
+*◊ Rigorous multi-dimensional evaluation ◊ Statistical validation (95% CI, Cohen's h) ◊ Separating theater from real systems*  
+Features stress testing, network resilience, ensemble coordination, and failure analysis with reproducible methodology.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="500"/>
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="600"/>
 </p>
 
 ---
 
 #### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)
 **Temporal Code Intelligence platform predicting quality evolution through Git history analysis.**  
-Conversational AI agent revealing code complexity trends, decay forecasting, and maintenance burden prediction. 
-Revolutionary approach to understanding codebase evolution using mathematical pattern analysis.
+*◊ Conversational AI agent ◊ Code complexity trends ◊ Mathematical pattern analysis*  
+Revolutionary approach to understanding codebase evolution with decay forecasting and maintenance burden prediction.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="500"/>
@@ -76,10 +82,21 @@ Revolutionary approach to understanding codebase evolution using mathematical pa
 
 ---
 
+#### [Agent Academy Labs](https://github.com/Cre4T3Tiv3/agent-academy-labs)
+**Experimental framework for multi-agent coordination and collaborative learning architectures.**  
+*◊ Agent-based learning systems ◊ Coordination protocols ◊ Emergent behavior analysis*  
+Research platform exploring advanced agent interactions, training methodologies, and collective intelligence patterns.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/agent-academy-labs/main/docs/assets/agent_academy_labs_v0.1.0.png" alt="Agent Academy Labs Preview" width="600"/>
+</p>
+
+---
+
 #### [LLM Prompt Debugger](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)
 **Clean UI for LLM development workflows with prompt versioning and model selection.**  
-Built for engineers, not hype. Streamlined prompt → model → tag → export workflow.  
-*Currently supports OpenAI, Claude, and Ollama*
+*◊ Built for engineers, not hype ◊ Streamlined workflow ◊ Multi-provider support*  
+Prompt → model → tag → export workflow. Currently supports OpenAI, Claude, and Ollama.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llm-prompt-debugger/main/docs/assets/llm_prompt_debugger_v0.1.0.gif" alt="LLM Prompt Debugger preview" width="600"/>
@@ -88,18 +105,17 @@ Built for engineers, not hype. Streamlined prompt → model → tag → export w
 ---
 
 #### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
-**Lightweight, instruction-tuned LoRA adapter for LLaMA 3 8B using 4-bit QLoRA.**  
-Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for consumer GPUs and agentic workflows.  
-*Check out my [HF Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)*
+**Advanced 4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B with production-grade optimization.**  
+*◊ Memory-efficient training ◊ Consumer GPU optimization ◊ Instruction-following specialization*  
+Demonstrates cutting-edge parameter-efficient fine-tuning with [Unsloth](https://github.com/unslothai/unsloth) integration. Live demo at [HF Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="500"/>
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="600"/>
 </p>
 
 ---
 
 #### Additional AI Engineering Tools:
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -108,7 +124,8 @@ Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for c
         <strong>GoC Mitra</strong>
       </a>
       <p>
-        A fast, pluggable AI-powered Git commit assistant.<br/>
+        <strong>High-performance AI-powered Git commit assistant with pluggable architecture.</strong><br/>
+        <em>◊ Cross-platform compatibility ◊ Zero-dependency binary ◊ Intelligent commit analysis</em><br/>
         <em>Written in Go. Built for every stack.</em>
       </p>
     </td>
@@ -118,7 +135,9 @@ Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for c
         <strong>LLMOps Dashboard</strong>
       </a>
       <p>
-        A modular frontend framework to compose & debug prompt pipelines, visualize telemetry, & integrate custom LLMs.
+        <strong>Production-grade framework for composing and debugging complex prompt pipelines.</strong><br/>
+        <em>◊ Real-time telemetry visualization ◊ Custom LLM integration ◊ Modular architecture</em><br/>
+        <em>Enterprise-ready prompt engineering platform.</em>
       </p>
     </td>
   </tr>
@@ -126,14 +145,21 @@ Fine-tuned with [Unsloth](https://github.com/unslothai/unsloth), optimized for c
 
 ---
 
-## What Sets This Work Apart
+## ▲ What Makes This Different
 
-**Research Rigor** - Statistical validation (95% CI, Cohen's h), reproducible methodologies, mathematical analysis  
-**Mathematical Foundations** - Deep expertise in core ML mathematics applied to modern AI systems  
-**Innovation** - Temporal Intelligence and novel approaches that advance the field  
-**Practical Engineering** - Tools that solve real problems developers face daily  
-**Open Innovation** - Building in public with complete transparency and rigorous validation  
+**Research Rigor** ~ No hand-waving. Statistical validation, reproducible methods, mathematical proof  
+**Mathematical Foundations** ~ Deep ML mathematics applied to real systems (not just theory)  
+**Advanced Training Methods** ~ Parameter-efficient fine-tuning, QLoRA optimization, multi-agent coordination  
+**Neural Architecture Research** ~ Agent-based systems, collaborative learning, emergent behaviors  
+**Innovation** ~ Temporal Intelligence and approaches that advance the field  
+**Practical Engineering** ~ Tools solving problems developers actually face  
+**Open Innovation** ~ Building in public with complete transparency and rigorous validation  
 
 ---
 
-*Research rigor • Mathematical depth • Innovation • Building next-generation AI/ML engineering software*
+*In a field full of hype, I build systems backed by math.*  
+**Research rigor • Mathematical depth • Innovation • Next-generation AI/ML engineering**
+
+⋆ *Star my repos if this work resonates with you*
+
+---
