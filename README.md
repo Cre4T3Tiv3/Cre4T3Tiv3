@@ -13,9 +13,9 @@
 
 # Hi, I'm Jesse Moses (@Cre4T3Tiv3)
 
-> *Building AI systems that actually work, backed by math that actually matters.*
+> *Building AI/ML systems that actually work, backed by math that actually matters.*
 
-**AI Software Engineer** combining research rigor, mathematical depth, and innovative tool building to advance AI engineering through novel approaches and comprehensive developer workflows.
+**AI/ML Software Engineer** combining research rigor, mathematical depth, and innovative tool building to advance AI/ML engineering through novel approaches and comprehensive developer workflows.
 
 What drives me most in AI/ML is the R&D and innovation side. Taking cutting-edge research and turning it into real-world solutions. There's something exciting about being at that intersection of theory and practical impact.
  
@@ -25,22 +25,22 @@ What drives me most in AI/ML is the R&D and innovation side. Taking cutting-edge
 ⇒ **Developer Tools** - Building comprehensive workflows that solve real engineering problems at scale  
 ⇒ **R&D & Innovation** - 10+ years across fintech, ad-tech, and enterprise SaaS | MS AI/ML, MS CS (in-progress)
 
-I build AI systems that bridge mathematical rigor with practical engineering. My work spans temporal pattern analysis, rigorous AI agent benchmarking, foundational ML mathematics, and creating tools that solve real problems developers face daily.
+I build AI/ML systems that bridge mathematical rigor with practical engineering. My work spans temporal pattern analysis, rigorous AI agent benchmarking, foundational ML mathematics, and creating tools that solve real problems developers face daily.
 
 Specializing in research-driven innovation, mathematical ML foundations, comprehensive developer tooling, and statistical validation. I build in public, treat open source like product, and advance the field through rigorous analysis and thoughtful engineering.
 
-**▶ Mission: Advancing AI engineering through research rigor, mathematical depth, and innovative tools that empower both humans and machines.**
+**▶ Mission: Advancing AI/ML engineering through research rigor, mathematical depth, and innovative tools that empower both humans and machines.**
 
 ---
 
 ## Current Research & Innovation
 
-**Temporal Intelligence** - Analyzing AI systems and code evolution patterns over time  
+**Temporal Intelligence** - Analyzing AI/ML systems and code evolution patterns over time  
 **AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems  
 **Neural Network Training & Optimization** - Advanced fine-tuning methodologies, QLoRA implementations, and efficient training pipelines  
 **Model Architecture Research** - Agent-based learning systems and multi-model coordination frameworks  
 **Mathematical ML Foundations** - Bridging core mathematics with modern AI applications  
-**Next-Gen AI Tools** - Building developer workflows for the future of AI engineering  
+**Next-Gen AI/ML Tools** - Building developer workflows for the future of AI/ML engineering  
 
 ---
 
