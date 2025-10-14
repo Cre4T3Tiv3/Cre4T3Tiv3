@@ -60,6 +60,17 @@ Specializing in research-driven innovation, mathematical ML foundations, compreh
 
 ---
 
+#### [Jetson Orin Nano Matrix Multiplication: Power-Performance Analysis](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
+**Scientific benchmarking framework exposing power-performance trade-offs in edge AI deployments.**   
+*◊ 1,282 GFLOPS peak (61% efficiency) ◊ 25W sweet spot delivers 90% of MAXN at 88% power ◊ 60 data points across 4 implementations*  
+Features cuBLAS optimization, Tensor Core acceleration, multi-power mode analysis, and automated regression testing.
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_social_preview_v1.0.0.png" alt="Jetson Orin Nano Power-Performance Benchmarks social preview" width="600"/>
+  </p>
+
+---
+
 #### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
 **Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.**   
 *◊ Rigorous multi-dimensional evaluation ◊ Statistical validation (95% CI, Cohen's h) ◊ Separating theater from real systems*  
@@ -115,33 +126,14 @@ Demonstrates cutting-edge parameter-efficient fine-tuning with [Unsloth](https:/
 
 ---
 
-#### Additional AI Engineering Tools:
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Cre4T3Tiv3/gocmitra">
-        <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gocmitra/main/docs/assets/gocmitra_v0.1.0.jpg" alt="GoC Mitra preview" width="300"/><br/>
-        <strong>GoC Mitra</strong>
-      </a>
-      <p>
-        <strong>High-performance AI-powered Git commit assistant with pluggable architecture.</strong><br/>
-        <em>◊ Cross-platform compatibility ◊ Zero-dependency binary ◊ Intelligent commit analysis</em><br/>
-        <em>Written in Go. Built for every stack.</em>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Cre4T3Tiv3/llmops-dashboard">
-        <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llmops-dashboard/main/docs/assets/llmops_dashboard_v0.2.0.jpeg" alt="LLMOps Dashboard preview" width="300"/><br/>
-        <strong>LLMOps Dashboard</strong>
-      </a>
-      <p>
-        <strong>Modular framework for composing and debugging complex prompt pipelines.</strong><br/>
-        <em>◊ Real-time telemetry visualization ◊ Custom LLM integration ◊ Modular architecture</em><br/>
-        <em>Dev-ready prompt engineering platform.</em>
-      </p>
-    </td>
-  </tr>
-</table>
+#### [GoC Mitra](https://github.com/Cre4T3Tiv3/gocmitra)
+**High-performance AI-powered Git commit assistant with pluggable architecture.**  
+*◊ Cross-platform compatibility ◊ Zero-dependency binary ◊ Intelligent commit analysis*  
+Written in Go. Built for every stack.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gocmitra/main/docs/assets/gocmitra_v0.1.0.jpg" alt="GoC Mitra preview" width="600"/>
+</p>
 
 ---
 
