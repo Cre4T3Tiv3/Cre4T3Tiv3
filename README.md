@@ -35,12 +35,12 @@ Specializing in research-driven innovation, mathematical ML foundations, compreh
 
 ## Current Research & Innovation
 
-**Edge AI Performance Optimization** - Power-performance analysis, CUDA optimization, hardware efficiency validation
-**Temporal Intelligence** - Analyzing AI/ML systems and code evolution patterns over time
-**AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems
-**Neural Network Training & Optimization** - Advanced fine-tuning methodologies, QLoRA implementations, and efficient training pipelines
-**Mathematical ML Foundations** - Bridging core mathematics with modern AI applications
-**Next-Gen AI/ML Tools** - Building developer workflows for the future of AI/ML engineering  
+**Edge AI Performance Optimization** - Power-performance analysis, CUDA optimization, and hardware efficiency validation.      
+**Temporal Intelligence** - Analyzing AI/ML systems and code evolution patterns over time.   
+**AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems.   
+**Neural Network Training & Optimization** - Advanced fine-tuning methodologies, QLoRA implementations, and efficient training pipelines.   
+**Mathematical ML Foundations** - Bridging core mathematics with modern AI applications.   
+**Next-Gen AI/ML Tools** - Building developer workflows for the future of AI/ML engineering.   
 
 ---
 
@@ -62,8 +62,8 @@ Specializing in research-driven innovation, mathematical ML foundations, compreh
 
 #### [Jetson Orin Nano Matrix Multiplication: Power-Performance Analysis](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
 **Scientific benchmarking framework exposing power-performance trade-offs in edge AI deployments.**   
-*◊ 1,282 GFLOPS peak (61% efficiency) ◊ 25W sweet spot delivers 90% of MAXN at 88% power ◊ 60 data points across 4 implementations*  
-Features cuBLAS optimization, Tensor Core acceleration, multi-power mode analysis, and automated regression testing.
+*◊ 1,282 GFLOPS peak (61% efficiency) ◊ 25W sweet spot delivers 90% of MAXN at 88% power ◊ 60 data points across 4 implementations*   
+Features cuBLAS optimization, Tensor Core acceleration, multi-power mode analysis, and automated regression testing.   
   
   <p align="center">
     <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_social_preview_v1.0.0.png" alt="Jetson Orin Nano Power-Performance Benchmarks social preview" width="600"/>
