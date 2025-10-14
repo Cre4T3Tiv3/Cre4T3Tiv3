@@ -35,11 +35,11 @@ Specializing in research-driven innovation, mathematical ML foundations, compreh
 
 ## Current Research & Innovation
 
-**Temporal Intelligence** - Analyzing AI/ML systems and code evolution patterns over time  
-**AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems  
-**Neural Network Training & Optimization** - Advanced fine-tuning methodologies, QLoRA implementations, and efficient training pipelines  
-**Model Architecture Research** - Agent-based learning systems and multi-model coordination frameworks  
-**Mathematical ML Foundations** - Bridging core mathematics with modern AI applications  
+**Edge AI Performance Optimization** - Power-performance analysis, CUDA optimization, hardware efficiency validation
+**Temporal Intelligence** - Analyzing AI/ML systems and code evolution patterns over time
+**AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems
+**Neural Network Training & Optimization** - Advanced fine-tuning methodologies, QLoRA implementations, and efficient training pipelines
+**Mathematical ML Foundations** - Bridging core mathematics with modern AI applications
 **Next-Gen AI/ML Tools** - Building developer workflows for the future of AI/ML engineering  
 
 ---
