@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/Cre4T3Tiv3-DM.gif" alt="Cre4T3Tiv3-DM" width="500"/>
+</p>
 <p align="left">
   <a href="https://x.com/Cre4T3Tiv3" target="_blank">
     <img align="left" src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/logo-white.png" alt="Cre4T3Tiv3 on X" height="30" style="margin-right: 15px;" />
