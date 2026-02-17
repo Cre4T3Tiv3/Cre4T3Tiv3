@@ -71,9 +71,11 @@
 
 #### [Jetson Orin Nano Matrix Multiplication: Power-Performance Analysis](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
 
-**Scientific benchmarking framework exposing power-performance trade-offs in edge AI deployments.**  
-*◊ 1,282 GFLOPS peak (61% efficiency) ◊ 25W sweet spot delivers 90% of MAXN at 88% power ◊ 60 data points across 4 implementations*  
-Upstream question: what is the real cost of each power mode? Rigorous CUDA benchmarking with cuBLAS optimization, Tensor Core acceleration, multi-power mode analysis, and automated regression testing.
+▶ **Scientific benchmarking framework exposing power-performance trade-offs in edge AI deployments.**  
+
+> *◊ 1,282 GFLOPS peak (61% efficiency) ◊ 25W sweet spot delivers 90% of MAXN at 88% power ◊ 60 data points across 4 implementations*
+
+▶ Upstream question: what is the real cost of each power mode? Rigorous CUDA benchmarking with cuBLAS optimization, Tensor Core acceleration, multi-power mode analysis, and automated regression testing.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_social_preview_v1.0.0.png" alt="Jetson Orin Nano Power-Performance Benchmarks social preview" width="600"/>
@@ -83,9 +85,11 @@ Upstream question: what is the real cost of each power mode? Rigorous CUDA bench
 
 #### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
 
-**Mathematical benchmark exposing the performance gap between real agents and LLM wrappers.**  
-*◊ Rigorous multi-dimensional evaluation ◊ Statistical validation (95% CI, Cohen's h) ◊ Separating theater from real systems*  
-Real agents maintain state, plan under uncertainty, and learn from interaction. This benchmark proves the difference. Stress testing, network resilience, ensemble coordination, and failure analysis with fully reproducible methodology.
+▶ **Mathematical benchmark exposing the performance gap between real agents and LLM wrappers.**  
+
+> *◊ Rigorous multi-dimensional evaluation ◊ Statistical validation (95% CI, Cohen's h) ◊ Separating theater from real systems*
+
+▶ Real agents maintain state, plan under uncertainty, and learn from interaction. This benchmark proves the difference. Stress testing, network resilience, ensemble coordination, and failure analysis with fully reproducible methodology.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="600"/>
@@ -95,9 +99,11 @@ Real agents maintain state, plan under uncertainty, and learn from interaction. 
 
 #### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)
 
-**Temporal Code Intelligence — predicting quality evolution through mathematical pattern analysis of Git history.**  
-*◊ Conversational AI agent ◊ Complexity trend analysis ◊ Decay forecasting ◊ Maintenance burden prediction*  
-Code does not exist. Only code evolution exists. GitVoyant applies temporal intelligence to expose what static analysis misses: how systems degrade, where complexity accumulates, and when intervention is needed before failure.
+▶ **Temporal Code Intelligence: predicting quality evolution through mathematical pattern analysis of Git history.**  
+
+> *◊ Conversational AI agent ◊ Complexity trend analysis ◊ Decay forecasting ◊ Maintenance burden prediction*  
+
+▶ Code does not exist. Only code evolution exists. GitVoyant applies temporal intelligence to expose what static analysis misses: how systems degrade, where complexity accumulates, and when intervention is needed before failure.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg" alt="GitVoyant social preview" width="500"/>
@@ -107,9 +113,11 @@ Code does not exist. Only code evolution exists. GitVoyant applies temporal inte
 
 #### [Agent Academy Labs](https://github.com/Cre4T3Tiv3/agent-academy-labs)
 
-**Experimental framework for multi-agent coordination and collaborative learning architectures.**  
-*◊ Agent-based learning systems ◊ Coordination protocols ◊ Emergent behavior analysis*  
-Research platform for advanced agent interactions, training methodologies, and collective intelligence patterns. Built to understand what emerges when agents operate at system boundaries.
+▶ **Experimental framework for multi-agent coordination and collaborative learning architectures.**  
+
+> *◊ Agent-based learning systems ◊ Coordination protocols ◊ Emergent behavior analysis*  
+
+▶ Research platform for advanced agent interactions, training methodologies, and collective intelligence patterns. Built to understand what emerges when agents operate at system boundaries.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/agent-academy-labs/main/docs/assets/agent_academy_labs_v0.1.0.png" alt="Agent Academy Labs Preview" width="600"/>
@@ -119,9 +127,11 @@ Research platform for advanced agent interactions, training methodologies, and c
 
 #### [LLM Prompt Debugger](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)
 
-**Clean UI for LLM development workflows with prompt versioning and model selection.**  
-*◊ Built for engineers, not hype ◊ Streamlined workflow ◊ Multi-provider support*  
-Prompt → model → tag → export. Currently supports OpenAI, Claude, and Ollama.
+▶ **Clean UI for LLM development workflows with prompt versioning and model selection.**  
+
+> *◊ Built for engineers, not hype ◊ Streamlined workflow ◊ Multi-provider support*  
+
+▶ Prompt ⇒ model ⇒ tag ⇒ export.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llm-prompt-debugger/main/docs/assets/llm_prompt_debugger_v0.1.0.gif" alt="LLM Prompt Debugger preview" width="600"/>
@@ -131,9 +141,11 @@ Prompt → model → tag → export. Currently supports OpenAI, Claude, and Olla
 
 #### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
 
-**Advanced 4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B with production-grade optimization.**  
-*◊ Memory-efficient training ◊ Consumer GPU optimization ◊ Instruction-following specialization*  
-Cutting-edge parameter-efficient fine-tuning with [Unsloth](https://github.com/unslothai/unsloth) integration. Live demo at [HF Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo).
+▶ **Advanced 4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B with production-grade optimization.**  
+
+> *◊ Memory-efficient training ◊ Consumer GPU optimization ◊ Instruction-following specialization*  
+
+▶ Cutting-edge parameter-efficient fine-tuning with [Unsloth](https://github.com/unslothai/unsloth) integration. Live demo at [HF Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Adapter preview" width="600"/>
@@ -143,9 +155,11 @@ Cutting-edge parameter-efficient fine-tuning with [Unsloth](https://github.com/u
 
 #### [GoC Mitra](https://github.com/Cre4T3Tiv3/gocmitra)
 
-**High-performance AI-powered Git commit assistant with pluggable architecture.**  
-*◊ Cross-platform compatibility ◊ Zero-dependency binary ◊ Intelligent commit analysis*  
-Written in Go. Built for every stack.
+▶ **High-performance AI-powered Git commit assistant with pluggable architecture.**  
+
+> *◊ Cross-platform compatibility ◊ Zero-dependency binary ◊ Intelligent commit analysis*  
+
+▶ Written in Go. Built for every stack.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/gocmitra/main/docs/assets/gocmitra_v0.1.0.jpg" alt="GoC Mitra preview" width="600"/>
@@ -155,24 +169,25 @@ Written in Go. Built for every stack.
 
 ## What Makes This Different
 
-▶ **Systems Architecture** ⇒ Start from system boundaries, not best practices. Upstream governance prevents downstream failure  
+> **Systems Architecture** ⇒ Start from system boundaries, not best practices. Upstream governance prevents downstream failure  
 
-> **Mathematical Rigor** ▶ Statistical validation, complexity analysis, reproducible methodology. No hand-waving  
+▶ **Mathematical Rigor** ⇒ Statistical validation, complexity analysis, reproducible methodology. No hand-waving  
 
-▶ **Cross-Domain Synthesis** ⇒ Pattern recognition across fintech, ad-tech, AI/ML, and systems research that specialists miss  
+> **Cross-Domain Synthesis** ⇒ Pattern recognition across fintech, ad-tech, AI/ML, and systems research that specialists miss  
 
-> **Temporal Intelligence** ▶ Static analysis misses dynamic behavior. Everything is analyzed across time  
+▶ **Temporal Intelligence** ⇒ Static analysis misses dynamic behavior. Everything is analyzed across time  
 
-▶ **Practical Engineering** ⇒ Tools solving problems developers actually face, built to production standards  
+> **Practical Engineering** ⇒ Tools solving problems developers actually face, built to production standards  
 
-> **Open Innovation** ▶ Complete transparency, reproducible validation, built in public
+▶ **Open Innovation** ⇒ Complete transparency, reproducible validation, built in public
 
 ---
 
-*In a field full of hype, I build systems backed by math.*  
+> *In a field full of hype, I build systems backed by math.*  
 
 ▶ **Systems architecture ⇒ Mathematical rigor ▶ Cross-domain synthesis ⇒ Upstream governance**
 
 ---
 
-**[bytestacklabs.com](https://bytestacklabs.com)** · **[ORCID: 0009-0006-0322-7974](https://orcid.org/0009-0006-0322-7974)**
+**[bytestacklabs.com](https://bytestacklabs.com)**   
+**[ORCID: 0009-0006-0322-7974](https://orcid.org/0009-0006-0322-7974)**
