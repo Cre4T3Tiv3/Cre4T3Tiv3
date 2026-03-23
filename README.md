@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/Cre4T3Tiv3-DM.gif" alt="Cre4T3Tiv3-DM" width="500"/>
+    <img src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/Cre4T3Tiv3-DM.gif" alt="Cre4T3Tiv3-DM" width="1000"/>
 </p>
 
 > *The same structural patterns govern neural networks, code evolution, hardware performance, and perception itself. Domain changes. Architecture doesn't.*
