@@ -35,10 +35,8 @@ I build across domains because the structural patterns are domain-invariant. Tem
 
 ---
 
-#### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)
-
 **Temporal Code Intelligence platform. Time-series analysis on Git commit history.**  
-Linear regression trend analysis, cyclomatic complexity tracking, confidence scoring, and predictive decay forecasting. Domain-Driven Design with Clean Architecture. The data source is non-language temporal data.
+Linear regression trend analysis, cyclomatic complexity tracking, confidence scoring, and predictive decay forecasting. Domain-Driven Design with Clean Architecture. Static analysis tells you a file is complex. GitVoyant tells you whether that complexity is growing, shrinking, or stable, and at what rate.
 
 [![GitVoyant social preview](https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg)](https://github.com/Cre4T3Tiv3/gitvoyant)
 
@@ -46,8 +44,8 @@ Linear regression trend analysis, cyclomatic complexity tracking, confidence sco
 
 #### [Jetson Orin Nano Matrix Multiplication: Power-Performance Analysis](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
 
-**Hardware-level systems engineering with mathematical validation.**  
-4 CUDA implementations (naive, cache-blocked, cuBLAS, Tensor Core WMMA) across 3 power modes and 5 matrix sizes. C++/CUDA and Python. 1,282 GFLOPS peak, 99.5% measurement accuracy, 60 validated data points. Citation-ready.
+**Scientific CUDA benchmarking framework. Four implementations, three power modes, five matrix sizes.**  
+Naive, cache-blocked, cuBLAS, and Tensor Core WMMA across 15W, 25W, and MAXN on Jetson Orin Nano. C++/CUDA and Python. 1,282 GFLOPS peak, 99.5% mathematical validation, 60 data points. Every result validated against NumPy reference computation.
 
 [![Jetson Orin Nano Power-Performance Benchmarks social preview](https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_social_preview_v1.0.0.png)](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
 
@@ -55,8 +53,8 @@ Linear regression trend analysis, cyclomatic complexity tracking, confidence sco
 
 #### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
 
-**Mathematical benchmarking framework for AI agent architectures.**  
-Statistical validation (95% confidence intervals, Cohen's h effect sizes), stress testing, network resilience, ensemble coordination, and failure analysis. Rigorous evaluation is not downstream of engineering. It is the engineering most practitioners skip.
+**Benchmarking the gap between AI agent hype and architecture.**  
+Three agent archetypes, 73-point performance spread, stress testing, network resilience, and ensemble coordination analysis with statistical validation (95% CI, Cohen's h). 0% positive synergy across all multi-agent ensemble patterns tested.
 
 [![AI Agent Reality Check social preview](https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg)](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
 
@@ -64,8 +62,8 @@ Statistical validation (95% confidence intervals, Cohen's h effect sizes), stres
 
 #### [Unsloth LLaMA 3 Adapter (QLoRA)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
 
-**Custom model training using modern architectures.**  
-4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B with production-grade optimization. Memory-efficient training on consumer GPUs. From training pipeline to deployed model. Published adapter on [HuggingFace](https://huggingface.co/Cre4T3Tiv3/unsloth-llama3-alpaca-lora).
+**Custom model training. 4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B.**  
+End-to-end from dataset preparation through training, evaluation, and deployment. Memory-efficient instruction tuning on consumer GPUs using Unsloth. Published adapter on [HuggingFace](https://huggingface.co/Cre4T3Tiv3/unsloth-llama3-alpaca-lora).
 
 [![Unsloth LLaMA 3 Adapter preview](https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
 
@@ -73,8 +71,8 @@ Statistical validation (95% confidence intervals, Cohen's h effect sizes), stres
 
 #### [GoC Mitra](https://github.com/Cre4T3Tiv3/gocmitra)
 
-**High-performance Git commit assistant written in Go.**  
-Pluggable architecture, zero-dependency binary, cross-platform. Systems engineering in a compiled language.
+**Git commit assistant written in Go.**  
+Pluggable LLM backend (OpenAI, Claude, Ollama), zero-dependency binary, cross-platform. Reads your diff, returns a conventional commit message.
 
 [![GoC Mitra preview](https://raw.githubusercontent.com/Cre4T3Tiv3/gocmitra/main/docs/assets/gocmitra_v0.1.0.jpg)](https://github.com/Cre4T3Tiv3/gocmitra)
 
@@ -82,8 +80,8 @@ Pluggable architecture, zero-dependency binary, cross-platform. Systems engineer
 
 #### [LLM Prompt Debugger](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)
 
-**Clean UI for LLM development workflows with prompt versioning and model selection.**  
-Built for engineers, not hype. Prompt, model, tag, export. Currently supports OpenAI, Claude, and Ollama.
+**Developer-first UI for testing, tagging, and exporting LLM prompts.**  
+Next.js 14 frontend with multi-provider support (OpenAI, Claude, Ollama). Semantic tagging, JSON and Markdown export. Prompt, model, tag, export.
 
 [![LLM Prompt Debugger preview](https://raw.githubusercontent.com/Cre4T3Tiv3/llm-prompt-debugger/main/docs/assets/llm_prompt_debugger_v0.1.0.gif)](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)
 
