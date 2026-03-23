@@ -35,6 +35,8 @@ I build across domains because the structural patterns are domain-invariant. Tem
 
 ---
 
+#### [GitVoyant](https://github.com/Cre4T3Tiv3/gitvoyant)
+
 **Temporal Code Intelligence platform. Time-series analysis on Git commit history.**  
 Linear regression trend analysis, cyclomatic complexity tracking, confidence scoring, and predictive decay forecasting. Domain-Driven Design with Clean Architecture. Static analysis tells you a file is complex. GitVoyant tells you whether that complexity is growing, shrinking, or stable, and at what rate.
 
