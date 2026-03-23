@@ -2,26 +2,24 @@
     <img src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/Cre4T3Tiv3-DM.gif" alt="Cre4T3Tiv3-DM" width="500"/>
 </p>
 
-<p align="left">
-  <a href="https://x.com/Cre4T3Tiv3" target="_blank">
-    <img align="left" src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/logo-white.png" alt="Cre4T3Tiv3 on X" height="30" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/jlmoses/" target="_blank">
-    <img align="left" src="https://github.com/Cre4T3Tiv3/Cre4T3Tiv3/blob/main/docs/assets/InBug-White.png" alt="Jesse Moses on LinkedIn" height="30" />
-  </a>
-</p>
-  
-*Follow for temporal intelligence, diagnostic engineering, and rigorous analysis that cuts through the hype.*
+> *The same structural patterns govern neural networks, code evolution, hardware performance, and perception itself. Domain changes. Architecture doesn't.*
+
+**Systems Architect. AI/ML Engineer. Data Scientist.** I design neural network architectures, train and deploy models, build production ML pipelines, and engineer the diagnostic instruments that reveal what other systems conceal. From statistical modeling and data-driven decision systems to real-time infrastructure and edge computing, I work the full stack from mathematical foundations.
+
+10+ years across fintech, ad-tech, and enterprise SaaS. MS in AI/ML. MS in Computer Science (in-progress, CU Boulder). Founder & Chief Architect @ [ByteStack Labs](https://bytestacklabs.com).
 
 ---
 
-# Hi, I'm Jesse Moses (@Cre4T3Tiv3)
+[![Jesse Moses on LinkedIn](https://raw.githubusercontent.com/Cre4T3Tiv3/Cre4T3Tiv3/main/docs/assets/linkedin-white.png)](https://www.linkedin.com/in/jlmoses/) &nbsp;&nbsp;&nbsp; [![Cre4T3Tiv3 on X](https://raw.githubusercontent.com/Cre4T3Tiv3/Cre4T3Tiv3/main/docs/assets/x-white.png)](https://x.com/Cre4T3Tiv3) &nbsp;&nbsp;&nbsp; [![ORCID](https://raw.githubusercontent.com/Cre4T3Tiv3/Cre4T3Tiv3/main/docs/assets/orcid-white.png)](https://orcid.org/0009-0006-0322-7974)
 
-> *The same structural patterns govern neural networks, code evolution, hardware performance, and perception itself. Domain changes. Architecture doesn't.*
+---
+---
 
-**Systems Architect & AI/ML Engineer** building diagnostic instruments, temporal intelligence engines, and production frameworks that reveal what other systems conceal.
+[![ByteStack Labs](https://raw.githubusercontent.com/Cre4T3Tiv3/Cre4T3Tiv3/main/docs/assets/bytestack-labs-white.png)](https://bytestacklabs.com) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on LinkedIn](https://raw.githubusercontent.com/Cre4T3Tiv3/Cre4T3Tiv3/main/docs/assets/linkedin-white.png)](https://www.linkedin.com/company/bytestack-labs/) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on Medium](https://raw.githubusercontent.com/Cre4T3Tiv3/Cre4T3Tiv3/main/docs/assets/medium-white.png)](https://medium.com/@bytestacklabs) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on GitHub](https://raw.githubusercontent.com/Cre4T3Tiv3/Cre4T3Tiv3/main/docs/assets/github-white.png)](https://github.com/ByteStack-Labs)
 
-10+ years across fintech, ad-tech, and enterprise SaaS. MS in AI/ML. MS in Computer Science (in-progress, CU Boulder). Founder & Chief Architect @ [ByteStack Labs](https://bytestacklabs.com).
+---
+
+*Follow for temporal intelligence, diagnostic engineering, and rigorous analysis that cuts through the hype.*
 
 **Architectural Diagnosis** — I find where systems fail and why, from the math up.  
 **Temporal Intelligence** — Pattern analysis across time: code evolution, hardware performance, signal processing, music.  
@@ -91,17 +89,4 @@ Built for engineers, not hype. Prompt, model, tag, export. Currently supports Op
 
 ---
 
-## What Makes This Different
-
-**Diagnostic Rigor** — Every system has a failure mode. I find it, prove it mathematically, and make the diagnosis reproducible.  
-**Temporal Intelligence** — Evolution patterns across time reveal what snapshots conceal. Code, hardware, neural networks, music.  
-**Cross-Domain Architecture** — The same mathematics that diagnose convergence failure in a neural network diagnose decay patterns in a codebase and rhythmic structure in music production.  
-**Mathematical Foundations** — No hand-waving. Statistical validation, reproducible methods, every conclusion traceable to proof.  
-**Accessible, Not Pontificated** — The cutting edge should be made accessible. Not guarded. Not performed. Translated.
-
----
-
-*In a field that rewards premature convergence, I build systems that converge last and converge right.*  
-**Diagnostic engineering. Temporal intelligence. Mathematical rigor. Cross-domain architecture.**
-
-⋆ *Star my repos if this work resonates with you*
+*In a field that rewards premature convergence, I build systems that converge last and converge right.*
