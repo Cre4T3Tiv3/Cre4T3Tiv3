@@ -23,7 +23,6 @@
 **Temporal Intelligence** — Pattern analysis across time: code evolution, hardware performance, signal processing, music.  
 **Mathematical Rigor** — Statistical validation, reproducible methodology, every claim traceable to its mathematical basis.  
 **Cross-Domain Engineering** — Python, C++/CUDA, Go, Rust, TypeScript. From edge hardware to cloud infrastructure.  
-**Accessible, Not Pontificated** — The cutting edge should be made accessible. Not guarded. Not performed. Translated.
 
 I build across domains because the structural patterns are domain-invariant. Temporal decay in a codebase follows the same mathematics as convergence failure in a neural network. The physics don't change. The substrate does.
 
