@@ -71,22 +71,4 @@ End-to-end from dataset preparation through training, evaluation, and deployment
 
 ---
 
-#### [GoC Mitra](https://github.com/Cre4T3Tiv3/gocmitra)
-
-**Git commit assistant written in Go.**  
-Pluggable LLM backend (OpenAI, Claude, Ollama), zero-dependency binary, cross-platform. Reads your diff, returns a conventional commit message.
-
-[![GoC Mitra preview](https://raw.githubusercontent.com/Cre4T3Tiv3/gocmitra/main/docs/assets/gocmitra_v0.1.0.jpg)](https://github.com/Cre4T3Tiv3/gocmitra)
-
----
-
-#### [LLM Prompt Debugger](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)
-
-**Developer-first UI for testing, tagging, and exporting LLM prompts.**  
-Next.js 14 frontend with multi-provider support (OpenAI, Claude, Ollama). Semantic tagging, JSON and Markdown export. Prompt, model, tag, export.
-
-[![LLM Prompt Debugger preview](https://raw.githubusercontent.com/Cre4T3Tiv3/llm-prompt-debugger/main/docs/assets/llm_prompt_debugger_v0.1.0.gif)](https://github.com/Cre4T3Tiv3/llm-prompt-debugger)
-
----
-
 *In a field that rewards premature convergence, I build systems that converge last and converge right.*
