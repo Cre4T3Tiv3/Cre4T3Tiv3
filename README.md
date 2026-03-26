@@ -19,8 +19,6 @@
 
 ---
 
-*Follow for temporal intelligence, diagnostic engineering, and rigorous analysis that cuts through the hype.*
-
 **Architectural Diagnosis** — I find where systems fail and why, from the math up.  
 **Temporal Intelligence** — Pattern analysis across time: code evolution, hardware performance, signal processing, music.  
 **Mathematical Rigor** — Statistical validation, reproducible methodology, every claim traceable to its mathematical basis.  
