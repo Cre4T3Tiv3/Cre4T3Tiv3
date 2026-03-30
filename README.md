@@ -36,7 +36,7 @@ I build across domains because the structural patterns are domain-invariant. Tem
 **Temporal Code Intelligence platform. Time-series complexity analysis across Python, JavaScript, Java, and Go.**  
 Extracts commit history, computes cyclomatic complexity at each snapshot using language-specific parsers, fits linear regression to the time series, and classifies the trend as IMPROVING, DECLINING, or STABLE with statistical confidence scoring. Static analysis tells you a file is complex. GitVoyant tells you whether that complexity is growing, shrinking, or stable, and at what rate.
 
-[![GitVoyant social preview](https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_v0.2.0.jpeg)](https://github.com/Cre4T3Tiv3/gitvoyant)
+[![GitVoyant social preview](https://raw.githubusercontent.com/Cre4T3Tiv3/gitvoyant/main/docs/assets/gitvoyant_latest_v0.3.0.png)](https://github.com/Cre4T3Tiv3/gitvoyant)
 
 ---
 
