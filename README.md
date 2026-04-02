@@ -46,7 +46,7 @@ Extracts commit history, computes cyclomatic complexity at each snapshot using l
 **Scientific CUDA benchmarking framework. Four implementations, three power modes, five matrix sizes.**  
 Naive, cache-blocked, cuBLAS, and Tensor Core WMMA across 15W, 25W, and MAXN on Jetson Orin Nano. C++/CUDA and Python. 1,282 GFLOPS peak, 99.5% mathematical validation, 60 data points. Every result validated against NumPy reference computation.
 
-[![Jetson Orin Nano Power-Performance Benchmarks social preview](https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_latest_v1.0.0)](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
+[![Jetson Orin Nano Power-Performance Benchmarks social preview](https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_latest_v1.0.0.png)](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
 
 ---
 
