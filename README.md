@@ -64,7 +64,7 @@ Three agent archetypes, 73-point performance spread, stress testing, network res
 **Custom model training. 4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B.**  
 End-to-end from dataset preparation through training, evaluation, and deployment. Memory-efficient instruction tuning on consumer GPUs using Unsloth. Published adapter on [HuggingFace](https://huggingface.co/Cre4T3Tiv3/unsloth-llama3-alpaca-lora).
 
-[![Unsloth LLaMA 3 Adapter preview](https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_latest_v0.1.0)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
+[![Unsloth LLaMA 3 Adapter preview](https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_latest_v0.1.0.png)](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
 
 ---
 
