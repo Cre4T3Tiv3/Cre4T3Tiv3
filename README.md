@@ -32,11 +32,11 @@ I build across domains because the structural patterns are domain-invariant. Tem
 
 ---
 
-#### [kalmangrad](https://github.com/ByteStack-Labs/kalmangrad)
+#### [kalman-klar](https://github.com/ByteStack-Labs/kalman-klar)
 **The standard linear Kalman filter, derived from first principles and built to diagnose itself.**  
 A complete derivation from the Bayesian foundation through the recursive algorithm, a NumPy-only reference implementation where every line cites the equation it implements, and diagnostic instrumentation that reveals whether a running filter is actually optimal. NIS, NEES, innovation whiteness, and divergence detection, each derived from the properties the mathematics guarantees rather than bolted on after. The core depends on NumPy alone. Every claim traces to the derivation; every test verifies a property the math proves.
 
-[![kalmangrad social preview](https://raw.githubusercontent.com/ByteStack-Labs/kalmangrad/main/docs/assets/kalmangrad-hero.png)](https://github.com/ByteStack-Labs/kalmangrad)
+[![kalman-klar social preview](https://raw.githubusercontent.com/ByteStack-Labs/kalman-klar/main/docs/assets/kalman-klar-hero.png)](https://github.com/ByteStack-Labs/kalman-klar)
 
 ---
 
