@@ -4,7 +4,7 @@
 
 > *The same structural patterns govern neural networks, code evolution, hardware performance, and perception itself. Domain changes. Architecture doesn't.*
 
-**Systems Architect. AI/ML Engineer. Data Scientist.** I design neural network architectures, train and deploy models, build production ML pipelines, and engineer the diagnostic instruments that reveal what other systems conceal. From statistical modeling and data-driven decision systems to real-time infrastructure and edge computing, I work the full stack from mathematical foundations.
+**Systems Architect. AI/ML Engineer. Data Scientist.** I design neural network architectures, train and deploy models, build production ML pipelines and agent systems, and engineer the diagnostic instruments that reveal what other systems conceal. From statistical modeling and data-driven decision systems to real-time infrastructure and edge computing, I work the full stack from mathematical foundations.
 
 10+ years across fintech, ad-tech, and enterprise SaaS. MS in AI/ML. MS in Computer Science (in-progress, CU Boulder). Founder & Chief Architect @ [ByteStack Labs](https://bytestacklabs.com).
 
@@ -19,10 +19,10 @@
 
 ---
 
-**Architectural Diagnosis** — Where systems fail and why, from the math up.  
-**Temporal Intelligence** — Pattern analysis across time: code evolution, hardware performance, signal processing, music.  
-**Mathematical Rigor** — Statistical validation, reproducible methodology, every claim traceable to its mathematical basis.  
-**Cross-Domain Engineering** — Python, C++/CUDA, Go, Rust, TypeScript. From edge hardware to cloud infrastructure.  
+**Architectural Diagnosis.** Where systems fail and why, from the math up.  
+**Temporal Intelligence.** Pattern analysis across time: code evolution, hardware performance, signal processing, music.  
+**Mathematical Rigor.** Statistical validation, reproducible methodology, every claim traceable to its mathematical basis.  
+**Cross-Domain Engineering.** Python, C++/CUDA, Go, Rust, TypeScript. From edge hardware to cloud infrastructure.  
 
 I build across domains because the structural patterns are domain-invariant. Temporal decay in a codebase follows the same mathematics as convergence failure in a neural network. The physics don't change. The substrate does.
 
@@ -33,6 +33,7 @@ I build across domains because the structural patterns are domain-invariant. Tem
 ---
 
 #### [agent-reliability](https://github.com/ByteStack-Labs/claude-plugins)
+
 **ByteStack Labs marketplace for Claude Code. Reliability skills that audit AI which passes evaluation and fails in production.**  
 production-autopsy reproduces the failure, quantifies the drop by slice, and isolates the root cause by ablation; calibration-guard and trajectory-eval land next. Each skill emits a verification script and a diagnostic report, committed unedited. Every figure re-derives from runnable code, and the script exits non-zero if a single one fails to reproduce.
 
@@ -41,6 +42,7 @@ production-autopsy reproduces the failure, quantifies the drop by slice, and iso
 ---
 
 #### [agent-reliability-receipts](https://github.com/ByteStack-Labs/agent-reliability-receipts)
+
 **Public fixtures diagnosed by the agent-reliability plugin, with the tool's output committed unedited as the receipt.**  
 The hero fixture, invoice-extraction, scores 100% exact-match on evaluation and 86.25% on format-shifted production input. The 13.75-point drop concentrates in four input-format slices that collapse to zero; two ablations isolate positional field assignment as the cause. verify.py re-derives every figure from the raw data and exits non-zero if a single one fails to reproduce. Standard library, no model, no GPU.
 
