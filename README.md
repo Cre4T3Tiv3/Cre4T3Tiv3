@@ -4,7 +4,7 @@
 
 > *The same structural patterns govern neural networks, code evolution, hardware performance, and perception itself. Domain changes. Architecture doesn't.*
 
-**I operate at the intersection of my background: offensive security, software engineering, and AI/ML:** Designing neural network architectures, training and deploying models, building production ML pipelines and agent systems, and engineering the diagnostic instruments that reveal what other systems conceal. From statistical modeling and data-driven decision systems to real-time infrastructure and edge computing, I work the full stack from mathematical foundations.
+**I operate at the intersection of my background: offensive security, software engineering, and AI/ML.** Designing neural network architectures, training and deploying models, building production ML pipelines and agent systems, and engineering the diagnostic instruments that reveal what other systems conceal. From statistical modeling and data-driven decision systems to real-time infrastructure and edge computing, I work the full stack from mathematical foundations.
 
 10+ years across fintech, ad-tech, and enterprise SaaS. MS in AI/ML. MS in Computer Science (in-progress, CU Boulder). Founder & Chief Architect @ [ByteStack Labs](https://bytestacklabs.com).
 
